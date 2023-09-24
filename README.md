@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://space.monetapietrzak.com/prof_me&dev.png" alt="Profile Kamil Pietrzak 'Moneta'" width=125 height=125>
-</p>
 <h1 align="center">👨‍💻 Hi, I'm Kamil</h1>
 <br>
 <p align="center">
