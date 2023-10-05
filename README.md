@@ -8,7 +8,7 @@ I'm a computer science student with a passion for computers. My interests are as
 <p align="center">Your dreaming 🌟, my code 💻, our toast 🥂... but after deployment. <br>
 Write it, and we begin!
 </p>
-<p align="center"><b>monetapietrzak@gmail.com</b></p>
+<p align="center"><a href="mailto:monetapietrzak@gmail.com"><b>monetapietrzak@gmail.com</b></a></p>
 <hr>
 <p align="center"><b>🔍 Find me also...</b></p>
 <p align="center">
