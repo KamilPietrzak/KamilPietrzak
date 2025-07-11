@@ -6,7 +6,7 @@ I'm a computer science student with a passion for computers. My interests are as
 <br>
 <h2 align="center">🔍 Find me also...</h2>
 <p align="center">
-  <a href="https://www.monetapietrzak.com">Blog</a> |
+  <a href="https://monetapietrzak.com">Blog</a> |
   <a href="https://mastodon.social/@MonetaPietrzak">Mastodon</a> |
   <a href="https://bsky.app/profile/kamilpietrzak.bsky.social">BlueSky</a> |
   <a href="https://www.linkedin.com/in/kamil-pietrzak-wroc/" alt="Link to profile Kamil Pietrzak 'Moneta' in LinkedIn.">LinkedIn</a> |
