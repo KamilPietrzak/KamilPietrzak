@@ -1,7 +1,10 @@
-<h1 align="center">👨‍💻 Hi, I'm Kamil</h1>
+<h1 align="center">🙂 Hello! I'm Kamil</h1>
 <br>
 <p align="center">
-I'm a computer science student with a passion for computers. My interests are as diverse as the colors of the rainbow - on one hand, I'm fascinated by the world of technology, and on the other, mixology. Yes, I live in an alternative world where <b>Python</b> 🐍 code and <b>SQL</b> 📊 queries meet a shaker. Step into my world to savor this intriguing blend.
+At work, I prefer relationships with technology. I do a bit of programming in this and that.
+I'm an explorer in technology and beverages of all kinds.
+I build plastic models, game on hardware, and cultivate green friends in pots.
+I like things old and new. Electro Swing, Synthwave, and Cyberpunk vibes are what connect me. In short, I'm IT – hello.
 </p>
 <br>
 <h2 align="center">🔍 Find me also...</h2>
