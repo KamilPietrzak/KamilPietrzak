@@ -11,9 +11,8 @@ I like things old and new. Electro Swing, Synthwave, and Cyberpunk vibes are wha
 <p align="center">
   <a href="https://monetapietrzak.com">Blog</a> |
   <a href="https://mastodon.social/@MonetaPietrzak">Mastodon</a> |
-  <a href="https://bsky.app/profile/kamilpietrzak.bsky.social">BlueSky</a> |
-  <a href="https://www.linkedin.com/in/kamil-pietrzak-wroc/" alt="Link to profile Kamil Pietrzak 'Moneta' in LinkedIn.">LinkedIn</a> |
-  <a href="https://codeberg.org/KamilPietrzak">Codeberg</a>
+  <a href="https://codeberg.org/KamilPietrzak">Codeberg</a> |
+  <a href="https://www.linkedin.com/in/kamil-pietrzak-wroc/" alt="Link to profile Kamil Pietrzak 'Moneta' in LinkedIn.">LinkedIn</a>
 </p>
 <br>
 <h2 align="center">📫 Contact</h2>
