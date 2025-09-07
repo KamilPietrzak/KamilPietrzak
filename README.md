@@ -12,7 +12,7 @@ I like things old and new. Electro Swing, Cyberpunk, that's what connects me. In
 <p align="center">
   <a href="https://monetapietrzak.com">Blog</a> |
   <a href="https://mastodon.social/@MonetaPietrzak">Mastodon</a> |
-  <a href="https://codeberg.org/KamilPietrzak">Codeberg</a> |
+  <a href="https://codeberg.org/KamilPietrzak">Codeberg</a>
 </p>
 <br>
 <h2 align="center">📫 Contact</h2>
